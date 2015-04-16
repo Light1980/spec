@@ -95,7 +95,7 @@ HTML作为描述网页结构的超文本标记语言，在百度一直有着广�
 
 ```html
 <!-- good -->
-<div class="sidebar"></div>
+<div class="side-bar"></div>
 
 <!-- bad -->
 <div class="left"></div>
